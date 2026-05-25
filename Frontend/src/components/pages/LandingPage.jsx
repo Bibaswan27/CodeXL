@@ -157,14 +157,14 @@ export default function LandingPage() {
         <footer className="text-center text-zinc-400 py-8 border-t border-zinc-800">
           <div className="flex justify-center gap-4  mb-4">
             <a
-              href="https://github.com/tirtha18/"
+              href="https://github.com/Bibaswan27"
               target="_blank"
               rel="noreferrer"
             >
               <FaGithub className="text-2xl text-zinc-400 hover:text-green-500 transition-colors duration-300" />
             </a>
             <a
-              href="https://www.linkedin.com/in/tirtha-biswas-594581230/"
+              href="https://www.linkedin.com/in/bibaswan-mukherjee-a64143227/"
               target="_blank"
               rel="noreferrer"
             >
